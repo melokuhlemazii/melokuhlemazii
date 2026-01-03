@@ -26,14 +26,6 @@ Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an a
 
 ---
 
-## Automation & Testing Tools
-
-<img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20JMeter-d22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-f47b20?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zephyr-363945?style=for-the-badge"/>
-
 ## Languages & Scripting
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
