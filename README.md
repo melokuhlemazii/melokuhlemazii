@@ -76,7 +76,7 @@ Currently pursuing the ISTQB CTFL certification and building automation skills t
 ## Projects
 
 - [Lost & Found App](https://github.com/melokuhlemazii/lost-and-found)
-- [POS System](#)
+- [POS System](https://github.com/melokuhlemazii/smart-retail-pos.git)
 
 ---
 
