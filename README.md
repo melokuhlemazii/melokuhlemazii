@@ -53,9 +53,11 @@ Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an a
 ## CI/CD & Platforms
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/WSL-24ba36?style=for-the-badge&logo=linux&logoColor=white"/>
 
----
+----
 
 ---
 
