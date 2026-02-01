@@ -2,14 +2,14 @@
 <h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Exploring Full-Stack & Quality Engineering | Lifelong Learner</b>
+  <b>Test Autimation Engineer | Lifelong Learner</b>
 </p>
 
 ---
 
 ## About Me
 
-Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an aspiring Software Tester with a strong developer background. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
+Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Software Tester with a strong developer background. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
 
 ---
 
