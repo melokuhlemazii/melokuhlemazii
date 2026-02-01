@@ -78,7 +78,7 @@ Currently pursuing the ISTQB CTFL certification and building automation skills t
 
 - [Lost & Found App](https://github.com/melokuhlemazii/lost-and-found)
 - [POS System](https://github.com/melokuhlemazii/smart-retail-pos.git)
-- [Video Game API](https://github.com/melokuhlemazii/video-game-api)
+- [Video Game API](https://github.com/melokuhlemazii/VideoGameApi.git)
 
 ---
 
