@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Test Autimation Engineer | Lifelong Learner</b>
+  <b> Aspiring Test Autimation Engineer | Lifelong Learner</b>
 </p>
 
 ---
