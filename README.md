@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Test Autimation Engineer | Lifelong Learner</b>
+  <b>Aspiring Test Autimation Engineer | Lifelong Learner</b>
 </p>
 
 ---
@@ -16,10 +16,8 @@ Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Sof
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melokuhle-mazibuko)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/melokuhle_mazii)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/melokuhlemazii)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/melokuhle_mazii)
 
 
 ---
@@ -67,7 +65,6 @@ Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Sof
 - Excellent communication and collaboration
 - Creative problem-solving
 - Adaptability and quick learning
-- Leadership and mentoring
 - Strong work ethic and attention to detail
 
 ---
