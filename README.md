@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Test Autimation Engineer | Lifelong Learner</b>
+  <b>Aspiring Test Autimation Engineer | Lifelong Learner</b>
 </p>
 
 ---
@@ -16,7 +16,10 @@ Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Sof
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melokuhle-mazibuko)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/melokuhle_mazii)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/melokuhlemazii)
 
 
 ---
@@ -37,6 +40,8 @@ Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Sof
   <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
 </p>
 
 ## Version Control
@@ -69,7 +74,7 @@ Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Sof
 
 ## Current Focus
 
-Currently pursuing the ISTQB CTFL certification and building automation skills to enhance my software testing expertise. Alongside this, I am strengthening my development foundation because I genuinely enjoy programming and see it as a core part of becoming a well-rounded software tester.
+My current focus is on software testing and test automation engineering. I am actively building my skills in test automation frameworks, tools, and best practices, while pursuing the ISTQB CTFL certification. I am also part of the Ndosi Automation Bootcamp, where I am gaining hands-on experience in automation engineering. My goal is to become a highly effective test automation engineer, ensuring software quality through robust testing strategies. I continue to strengthen my development foundation, as I believe a strong programming background is essential for modern software testers.
 
 ---
 
