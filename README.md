@@ -80,7 +80,7 @@ My current focus is on software testing and test automation engineering. I am ac
 
 ## Projects
 
-- [Inventory Form Purchase - Selenium Java and TestNG Framework]https://github.com/melokuhlemazii/inventory_form_framework.git)
+- [Inventory Form Purchase - Selenium Java and TestNG Framework](https://github.com/melokuhlemazii/inventory_form_framework.git)
 - [API Testing - Rest Assured Framework](https://github.com/melokuhlemazii/API-Framework-Assessment.git)
 - [API Performance Testing - K6](https://github.com/melokuhlemazii/api-performance-k6)
 
