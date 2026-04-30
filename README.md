@@ -76,11 +76,13 @@ My current focus is on software testing and test automation engineering. I am ac
 ---
 
 
+
+
 ## Projects
 
-- [Lost & Found App](https://github.com/melokuhlemazii/lost-and-found)
-- [POS System](https://github.com/melokuhlemazii/smart-retail-pos.git)
-- [Video Game API](https://github.com/melokuhlemazii/VideoGameApi.git)
+- [Inventory Form Purchase - Selenium Java and TestNG Framework](https://github.com/melokuhlemazii/inventory-form-purchase)
+- [API Testing - Rest Assured Framework](https://github.com/melokuhlemazii/api-testing-rest-assured)
+- [API Performance Testing - K6](https://github.com/melokuhlemazii/api-performance-k6)
 
 ---
 
