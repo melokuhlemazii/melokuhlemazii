@@ -9,7 +9,11 @@
 
 ## About Me
 
-Hi, I'm <b>Melokuhle Mazibuko</b>,a Bachelor of ICT graduate and an aspiring Software Tester with a strong developer background. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
+I am an aspiring Software Tester and Automation Engineer with a strong interest in ensuring software quality through structured testing and automation. I have hands-on experience in UI automation using Selenium (Java) and TestNG, as well as API testing with Postman and Rest Assured. I also have exposure to performance testing using JMeter and k6, which has helped me understand system behavior under load.
+
+I enjoy building and organizing test frameworks using best practices such as the Page Object Model (POM), and I am continuously improving my skills in creating scalable and maintainable automation solutions. My learning journey is driven by curiosity, consistency, and a strong desire to grow within the QA and software engineering space.
+
+I am currently pursuing the ISTQB Foundation Level (CTFL) certification to strengthen my understanding of testing principles, methodologies, and industry standards.
 
 ---
 
@@ -88,7 +92,20 @@ My current focus is on software testing and test automation engineering. I am ac
 
 ## Learning Journey
 
-Exploring front-end and back-end development to strengthen my technical foundation as I work towards a career in software testing. I’m currently building projects using HTML, CSS, JavaScript, React, and Flask to understand how applications function from end to end.
+My journey into software testing and automation is driven by a strong interest in building reliable, scalable systems and continuously improving software quality.
+
+I started by building a foundation in manual testing and core QA principles, then progressed into automation testing using Selenium WebDriver with Java and TestNG. Through hands-on projects, I learned how to design maintainable frameworks using the Page Object Model (POM) and apply best practices such as explicit waits and data-driven testing.
+
+I then expanded into API testing, gaining practical experience with Postman for manual testing and Rest Assured for automation. This helped me understand backend systems, request chaining, authentication, and response validation.
+To broaden my skill set, I explored performance testing using JMeter and k6, learning how to evaluate system performance, scalability, and reliability under load.
+
+Along the way, I’ve also worked with tools and practices such as:
+Version control using Git & GitHub
+CI/CD pipeline basics for automated test execution
+Test reporting using Allure
+Structured test design and framework organization
+
+I am continuously learning.
 
 ---
 
