@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melokuhle-mazibuko">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/melokuhlemazii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/melokuhle_mazii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/melokuhle_mazii">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
 
@@ -44,42 +44,73 @@ I'm still early in my career, but I now have a solid practical foundation across
 ## What I'm Working With
 
 **Programming**
-`Java` · `Python` · `C#` · `JavaScript` · `TypeScript` · `SQL`
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Software Development**
-`Flask` · `HTML` · `CSS` · `MySQL` · `SQLite`
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Test Automation**
-`Selenium WebDriver (Java)` · `TestNG` · `Cucumber (BDD)` · `Gherkin` · `Page Object Model` · `Playwright (TypeScript)` · `Data-driven testing (Excel / JSON)`
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EE4C2C?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-6DB33F?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Data-driven testing](https://img.shields.io/badge/Data--driven%20Testing-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **API Testing**
-`Postman` · `Rest Assured (Java)` · `REST API validation`
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Performance Testing**
-`JMeter` · `k6` · `Load & performance testing`
+
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 **Databases**
-`MySQL` · `SQLite` · `SQL`
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 **DevOps / Version Control**
-`Git` · `GitHub` · `CI/CD pipelines`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools & Practices**
-`Allure Reports` · `SDLC / STLC` · `Test case & scenario design` · `Explicit waits, assertions & debugging`
+
+![Allure Reports](https://img.shields.io/badge/Allure%20Reports-FF7B00?style=for-the-badge&logo=qameta&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Inventory System Test Automation Framework
+### [Inventory System Test Automation Framework](https://github.com/melokuhlemazii/inventory_form_framework)
 A UI automation framework covering login, product management and core user workflows, built with the Page Object Model and data-driven tests for maintainability.
 **Tech:** Java · Selenium WebDriver · TestNG · Page Object Model · Data-driven testing
-🔗 [View repository](https://github.com/melokuhlemazii/inventory_form_framework)
 
-### API Testing & Automation Framework
+### [API Testing & Automation Framework](https://github.com/melokuhlemazii/API-Framework-Assessment)
 An API automation framework validating status codes, response bodies, authentication and user-role behaviour, structured to be reusable and maintainable.
 **Tech:** Java · Postman · Rest Assured · API validation
-🔗 [View repository](https://github.com/melokuhlemazii/API-Framework-Assessment)
 
 ### Cucumber BDD Test Automation Framework
 A behaviour-driven framework using feature files and step definitions to automate end-to-end workflows, including authentication, admin group creation and validation of the created group.
