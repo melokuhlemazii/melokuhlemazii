@@ -152,7 +152,7 @@ A web application for logging, searching, matching and managing lost and found i
 
 ## Career Goals
 
-I'm currently looking for opportunities where I can keep growing as both a developer and a tester — whether that's in **software engineering**, **software quality assurance**, **test automation**, a **graduate programme**, or a **junior role**. I'm keen to contribute, learn from experienced teams, and do work that helps ship reliable software.
+I'm currently looking for opportunities where I can keep growing as both an engineer and a tester — whether that's in **software engineering**, **software quality assurance**, **test automation**, a **graduate programme**, or a **junior role**. I'm keen to contribute, learn from experienced teams, and do work that helps ship reliable software.
 
 ---
 
