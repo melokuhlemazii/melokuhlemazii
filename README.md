@@ -112,15 +112,13 @@ A UI automation framework covering login, product management and core user workf
 An API automation framework validating status codes, response bodies, authentication and user-role behaviour, structured to be reusable and maintainable.
 **Tech:** Java · Postman · Rest Assured · API validation
 
-### Cucumber BDD Test Automation Framework
+### [Cucumber BDD Test Automation Framework](https://github.com/melokuhlemazii/cucumber-melokuhle)
 A behaviour-driven framework using feature files and step definitions to automate end-to-end workflows, including authentication, admin group creation and validation of the created group.
 **Tech:** Java · Selenium WebDriver · Cucumber · Gherkin · Page Object Model
 
-### Lost & Found System
+### [Lost & Found System](https://github.com/melokuhlemazii/lost-and-found)
 A web application for logging, searching, matching and managing lost and found items, with a focus on Python data structures, file handling and data capture.
 **Tech:** Python · Flask · HTML / Jinja · JavaScript · Tailwind CSS · SQLite
-
-> I've also worked on API performance testing with k6 — [k6 Performance Testing](https://github.com/melokuhlemazii/k6-performane-testing-melokuhle).
 
 ---
 
@@ -132,6 +130,7 @@ A web application for logging, searching, matching and managing lost and found i
 - Pipeline and Performance
 - Advanced Web Testing – Cucumber (BDD Framework)
 - Advanced Automation – Performance and Playwright
+- Mobile Automation(Android ,IOS and Huawei)
 
 **Other**
 - Cisco Networking Academy – Introduction to Cybersecurity
@@ -152,7 +151,7 @@ A web application for logging, searching, matching and managing lost and found i
 
 ## Career Goals
 
-I'm currently looking for opportunities where I can keep growing as both an engineer and a tester — whether that's in **software engineering**, **software quality assurance**, **test automation**, a **graduate programme**, or a **junior role**. I'm keen to contribute, learn from experienced teams, and do work that helps ship reliable software.
+I'm currently looking for opportunities where I can keep growing as an engineer and/or a tester — whether that's in **software engineering**, **software quality assurance**, **test automation**, a **graduate programme**, or a **junior role**. I'm keen to contribute, learn from experienced teams, and do work that helps ship reliable software.
 
 ---
 
